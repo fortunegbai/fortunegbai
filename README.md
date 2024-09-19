@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortunegbai&label=Profile%20views&color=0e75b6&style=flat" alt="fortunegbai" /> </p>
 
-- 🔭 I’m currently working on various projects utilizing **Excel,SQL,Power Bi**
+- 🔭 I’m currently working on various projects utilizing **Excel, SQL, Power Bi**
 
 - 🌱 I’m currently sharpening my skills in **Python**
 
