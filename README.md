@@ -1,3 +1,4 @@
+![logo](https://github.com/fortunegbai/fortunegbai/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Fortune Egbai</h1>
 <h3 align="center">A highly analytical and detail-oriented data analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
