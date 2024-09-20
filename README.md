@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fortune Egbai</h1>
 <h3 align="center">A highly analytical and detail-oriented data analyst.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimishajalota28%2Fhow-people-working-in-data-field-are-a-great-asset-to-an-organization-99e889f9bd1f&psig=AOvVaw1t0BhCmKEj2SNwnMTv5GK8&ust=1726932310085000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDCk6nq0YgDFQAAAAAdAAAAABAQ"
+<img align="right" alt="data analysis" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimishajalota28%2Fhow-people-working-in-data-field-are-a-great-asset-to-an-organization-99e889f9bd1f&psig=AOvVaw1t0BhCmKEj2SNwnMTv5GK8&ust=1726932310085000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDCk6nq0YgDFQAAAAAdAAAAABAQ"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortunegbai&label=Profile%20views&color=0e75b6&style=flat" alt="fortunegbai" /> </p>
 
 - 🔭 I’m currently working on various projects utilizing **Excel, SQL, Power Bi**
