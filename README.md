@@ -1,6 +1,6 @@
 ![logo](https://github.com/fortunegbai/fortunegbai/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Fortune Egbai</h1>
-<h3 align="center">I’m a business & product Analyst with a background in Business Management (PGD, M.Sc) and hands-on experience in sales, business data analysis, and customer insights. My focus is on data-driven product decisions that are centered around user behavior and business impact. 
+<h3 align="center">I’m a Business & Product Analyst with a background in Business Management (PGD, M.Sc) and hands-on experience in sales, business data analysis, and customer insights. My focus is on data-driven product decisions that are centered around user behavior and business impact. 
   
 I bridge the worlds of analytics and product thinking to solve real-world problems and improve user experiences. </h3>
 
