@@ -20,7 +20,7 @@ I bridge the worlds of analytics and product thinking to solve real-world proble
 ⚡ **Tools & skills:**
 - Data tools: Excel, SQL, Power BI
 - Research & analysis: Product research, usability testing, customer insights
-- Product & business strategy: Product thinking, problem solving, business strategy.
+- Product & business strategy: Product thinking, problem solving, customer empathy, business strategy.
 
 🎯 **Open to opportunities in:**
  - Business analytics
