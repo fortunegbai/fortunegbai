@@ -1,6 +1,6 @@
 ![logo](https://github.com/fortunegbai/fortunegbai/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Fortune Egbai</h1>
-<h3 align="center">A Business & Product Analyst passionate about turning business questions into data-driven product insights. 
+<h3 align="center">I'm a business and product analyst passionate about turning business questions into data-driven product insights. 
   
 With a background in Business Management (M.Sc), and hands-on experience in sales, business analysis, and customer insights, I thrive at the intersection of business, data, and product thinking. My goal is to help build products and strategies that truly serve users and drive measurable business impact. </h3>
 
@@ -9,7 +9,7 @@ With a background in Business Management (M.Sc), and hands-on experience in sale
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortunegbai&label=Profile%20views&color=0e75b6&style=flat" alt="fortunegbai" /> </p>
 
  🔭 **What you'll find here:**
-- Analytics & product projects: Practical projects that combine data analysis, user insights, product performance, and strategy to solve real-world problems.
+- Analytics & product projects: Projects that combine data analysis, user insights, product performance, and strategy to solve real-world problems.
 - Case studies: In-depth explorations demonstrating research, usability testing, and strategic thinking in product development.
 
 
@@ -31,7 +31,7 @@ With a background in Business Management (M.Sc), and hands-on experience in sale
 Feel free to check out my projects below!
 
 
-📫  [contactfortuneegbai@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=contactfortuneegbai@gmail.com)
+📫  [contactfortuneegbai@gmail.com](mailto:contactfortuneegbai@gmail.com)  
 
 
 <h3 align="left">Connect with me:</h3>
