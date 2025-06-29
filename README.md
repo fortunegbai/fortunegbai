@@ -30,7 +30,9 @@ With a background in Business Management (M.Sc), and hands-on experience in sale
 
 Feel free to check out my projects below!
 
-📫 [Email](mailto:your.contactfortuneegbai@gmail.com)
+
+📫 [contactfortuneegbai@gmail.com](mailto:contactfortuneegbai@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
