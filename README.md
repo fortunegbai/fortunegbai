@@ -49,4 +49,3 @@ Feel free to check out my projects below!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fortunegbai&show_icons=true&locale=en" alt="fortunegbai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortunegbai&" alt="fortunegbai" /></p>
